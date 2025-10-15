@@ -133,3 +133,4 @@ These projects represent comprehensive AP Computer Science A coursework, coverin
 - Software engineering practices
 
 Perfect for demonstrating foundational programming skills and algorithmic thinking to potential employers and academic institutions.
+
